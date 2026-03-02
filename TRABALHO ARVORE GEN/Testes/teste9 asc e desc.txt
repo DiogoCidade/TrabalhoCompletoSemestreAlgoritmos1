@@ -1,0 +1,14 @@
+G1_avo1
+G2___pai
+G3_____centro
+G4_______filho1
+G5_________neto1
+G4_______filho2
+G3_____neto1
+G2___filho1
+G2___filho2
+G1_centro
+G1_centro
+G2___filho1
+G3_____neto1
+G2___filho2

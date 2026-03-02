@@ -1,0 +1,20 @@
+
+pai, pai, M
+
+1
+G1: +-pai
+G2:   +--centro
+G3:     +---filho1
+G4:       +----neto1
+G3:     +---filho2
+
+centro, centro, M
+
+2
+2
+G2    +--pai
+G2    +--mae
+G1: +-centro
+G2:   +--filho1
+G3:     +---neto1
+G2:   +--filho2

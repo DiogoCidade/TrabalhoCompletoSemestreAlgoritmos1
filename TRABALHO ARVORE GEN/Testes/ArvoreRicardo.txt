@@ -1,0 +1,63 @@
+Augusto Zanoni, naosei, M
+
+Descendentes diretos: 1
+Descendentes: 3
+
+Arvore:
+G1: +-Augusto Zanoni
+G2:   +--Moacir Zanoni
+G3:     +---Ricardo Zanoni
+G3:     +---Belkeor Zanoni
+
+Lourdes Giovanoni, 26/12/1948, F
+
+Descendentes diretos: 2
+Descendentes: 7
+
+Arvore:
+G1: +-Lourdes Giovanoni
+G2:   +--Marines Zanoni
+G3:     +---Ricardo Zanoni
+G3:     +---Belkeor Zanoni
+G2:   +--Dilvo Giovanoni
+G3:     +---Cristian Giovanoni
+G4:       +----Thomas Giovanoni
+G3:     +---Joao Gabriel Giovanoni
+
+Ricardo Zanoni, 25/10/2006, M
+
+Ascendentes diretos: 2
+Ascendentes: 6
+
+Descendentes diretos: 0
+Descendentes: 0
+
+Arvore:
+G3      +---Augusto Zanoni
+G3      +---Arlinda Zanoni
+G2    +--Moacir Zanoni
+G3      +---Selvino Giovanoni
+G3      +---Lourdes Giovanoni
+G2    +--Marines Zanoni
+G1: +-Ricardo Zanoni
+
+Ricardo Zanoni e Thomas Giovanoni sao parentes de 5o grau.
+
+Belkeor Zanoni e Cristian Giovanoni sao parentes de 4o grau.
+
+Dilvo Giovanoni, ficodevendo, M
+
+Ascendentes diretos: 2
+Ascendentes: 2
+
+Descendentes diretos: 2
+Descendentes: 3
+
+Arvore:
+G2    +--Selvino Giovanoni
+G2    +--Lourdes Giovanoni
+G1: +-Dilvo Giovanoni
+G2:   +--Cristian Giovanoni
+G3:     +---Thomas Giovanoni
+G2:   +--Joao Gabriel Giovanoni
+

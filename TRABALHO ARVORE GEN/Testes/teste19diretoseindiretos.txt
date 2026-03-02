@@ -1,0 +1,39 @@
+
+avop, avo, M
+
+Descendentes diretos: 1
+Descendentes: 0
+
+Arvore:
+G1: +-avop
+G2:   +--pai
+G3:     +---centro
+G4:       +----filho1
+G5:         +-----neto1
+G4:       +----filho2
+G5:         +-----neto2
+
+centro, centro, 1
+
+Ascendentes diretos: 2
+Ascendentes: 0
+
+Descendentes diretos: 2
+Descendentes: 0
+
+Arvore:
+G3      +---avop
+G3      +---vop
+G2    +--pai
+G3      +---avom
+G3      +---vom
+G2    +--mae
+G1: +-centro
+G2:   +--filho1
+G3:     +---neto1
+G2:   +--filho2
+G3:     +---neto2
+
+avop e neto2 sao parentes de 4 grau.
+
+neto1 e neto2 sao parentes de 4 grau.

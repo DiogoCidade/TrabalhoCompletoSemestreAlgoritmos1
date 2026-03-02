@@ -1,0 +1,46 @@
+centro, centro, M
+
+G1: centro
+G2:   filho1
+G3:     neto1
+G2:   filha2
+G3:     neta2
+G2:   filho3
+
+avo1, avo1, M
+
+G1: avo1
+G2:   pai
+G3:     centro
+G4:       filho1
+G5:         neto1
+G4:       filha2
+G5:         neta2
+G4:       filho3
+
+centro, centro, M
+
+G3     avo1
+G3     vo1
+G2   pai
+G3     avo2
+G3     vo2
+G2   mae
+G1: centro
+G2:   filho1
+G3:     neto1
+G2:   filha2
+G3:     neta2
+G2:   filho3
+
+neto1, neto1, M
+
+G5         avo1
+G5         vo1
+G4       pai
+G5         avo2
+G5         vo2
+G4       mae
+G3     centro
+G2   filho1
+G1: neto1
